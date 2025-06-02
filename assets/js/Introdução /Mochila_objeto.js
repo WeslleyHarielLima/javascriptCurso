@@ -14,3 +14,4 @@ console.log(mochila)
 //se eu chamar a mochila ela listará tudo, se eu colocar o ponto ele vai ler apenas o item
 //console.log(mochila.casaco)
 
+ 
